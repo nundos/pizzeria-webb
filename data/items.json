@@ -1,0 +1,64 @@
+[
+  {
+    "type": "header",
+    "title": "Pizzeria Roma",
+    "address": "Storgatan 12, Stockholm",
+    "phone": "+46 8 123 4567",
+    "nav": [
+      { "text": "Hem", "link": "#" },
+      { "text": "Meny", "link": "#menu" },
+      { "text": "Erbjudanden", "link": "#offers" },
+      { "text": "Kontakt", "link": "#footer" }
+    ]
+  },
+  {
+    "type": "hero",
+    "title": "Välkommen till Pizzeria Roma!",
+    "subtitle": "Stockholms bästa pizzor bakade med kärlek och äkta ingredienser."
+  },
+  {
+    "type": "info",
+    "title": "Om oss",
+    "description": "Vi är en familjeägd pizzeria som levererar klassiska italienska smaker i hjärtat av Stockholm."
+  },
+  {
+    "type": "pizza",
+    "title": "Margherita",
+    "description": "Tomatsås, mozzarella, färsk basilika",
+    "price": "85 kr"
+  },
+  {
+    "type": "pizza",
+    "title": "Capricciosa",
+    "description": "Tomatsås, mozzarella, skinka, champinjoner, kronärtskocka",
+    "price": "95 kr"
+  },
+  {
+    "type": "pizza",
+    "title": "Vesuvio",
+    "description": "Tomatsås, mozzarella, skinka",
+    "price": "90 kr"
+  },
+  {
+    "type": "erbjudande",
+    "title": "Familjepizza",
+    "description": "4 stora pizzor för 320 kr",
+    "price": "320 kr"
+  },
+  {
+    "type": "erbjudande",
+    "title": "Lunchpizza + dryck",
+    "description": "Valfri pizza + läsk för 95 kr",
+    "price": "95 kr"
+  },
+  {
+    "type": "banner",
+    "image": "images/pizza-banner.jpg"
+  },
+  {
+    "type": "footer",
+    "address": "Storgatan 12, Stockholm",
+    "phone": "+46 8 123 4567",
+    "copyright": "© 2025 Pizzeria Roma"
+  }
+]
